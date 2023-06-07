@@ -1,23 +1,23 @@
 const listaPosts = [
     {
-        titulo:"Lorem ipsum dolor sit amet.",
-        descricao:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam scelerisque commodo sem, eu consectetur lacus rutrum sed. Nam porta ullamcorper urna id congue. Donec tincidunt commodo vestibulum. Aenean consectetur venenatis libero, non tristique eros fringilla at. Donec et metus et metus mollis maximus vitae nec quam. Nunc venenatis ultricies ante sit amet ullamcorper. Donec et rhoncus mauris. Maecenas nec risus ornare, semper ligula sit amet, tempor turpis. Donec viverra quam eget libero rutrum semper. Pellentesque a interdum sem, nec pulvinar tellus. Ut fermentum condimentum suscipit. Aliquam vestibulum nisi in dictum aliquet.",
-        imgURL:"",
+        nome: "",
+        descricao: "",
+        img: ""
     },
     {
-        titulo:"Lorem ipsum dolor sit amet.",
-        descricao:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam scelerisque commodo sem, eu consectetur lacus rutrum sed. Nam porta ullamcorper urna id congue. Donec tincidunt commodo vestibulum. Aenean consectetur venenatis libero, non tristique eros fringilla at. Donec et metus et metus mollis maximus vitae nec quam. Nunc venenatis ultricies ante sit amet ullamcorper. Donec et rhoncus mauris. Maecenas nec risus ornare, semper ligula sit amet, tempor turpis. Donec viverra quam eget libero rutrum semper. Pellentesque a interdum sem, nec pulvinar tellus. Ut fermentum condimentum suscipit. Aliquam vestibulum nisi in dictum aliquet.",
-        imgURL:"",
+        nome: "",
+        descricao: "",
+        img: ""
     },
     {
-        titulo:"Lorem ipsum dolor sit amet.",
-        descricao:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam scelerisque commodo sem, eu consectetur lacus rutrum sed. Nam porta ullamcorper urna id congue. Donec tincidunt commodo vestibulum. Aenean consectetur venenatis libero, non tristique eros fringilla at. Donec et metus et metus mollis maximus vitae nec quam. Nunc venenatis ultricies ante sit amet ullamcorper. Donec et rhoncus mauris. Maecenas nec risus ornare, semper ligula sit amet, tempor turpis. Donec viverra quam eget libero rutrum semper. Pellentesque a interdum sem, nec pulvinar tellus. Ut fermentum condimentum suscipit. Aliquam vestibulum nisi in dictum aliquet.",
-        imgURL:"",
+        nome: "",
+        descricao: "",
+        img: ""
     },
     {
-        titulo:"Lorem ipsum dolor sit amet.",
-        descricao:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam scelerisque commodo sem, eu consectetur lacus rutrum sed. Nam porta ullamcorper urna id congue. Donec tincidunt commodo vestibulum. Aenean consectetur venenatis libero, non tristique eros fringilla at. Donec et metus et metus mollis maximus vitae nec quam. Nunc venenatis ultricies ante sit amet ullamcorper. Donec et rhoncus mauris. Maecenas nec risus ornare, semper ligula sit amet, tempor turpis. Donec viverra quam eget libero rutrum semper. Pellentesque a interdum sem, nec pulvinar tellus. Ut fermentum condimentum suscipit. Aliquam vestibulum nisi in dictum aliquet.",
-        imgURL:"",
+        nome: "",
+        descricao: "",
+        img: ""
     },
 ];
 
