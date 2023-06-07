@@ -1,22 +1,22 @@
 const listaPosts = [
     {
-        nome: "",
-        descricao: "",
+        nome: "lorem ipsum",
+        descricao: "lorem ipsum",
         img: ""
     },
     {
-        nome: "",
-        descricao: "",
+        nome: "lorem ipsum",
+        descricao: "lorem ipsum",
         img: ""
     },
     {
-        nome: "",
-        descricao: "",
+        nome: "lorem ipsum",
+        descricao: "lorem ipsum",
         img: ""
     },
     {
-        nome: "",
-        descricao: "",
+        nome: "lorem ipsum",
+        descricao: "lorem ipsum",
         img: ""
     },
 ];
